@@ -1,5 +1,5 @@
 {
-  "name": "zoha/laravel-meta",
+  "name": "shoplab/laravel-meta",
   "description": "a package for working with models meta",
   "keywords": [
     "meta",
@@ -10,7 +10,7 @@
   "type": "package",
   "license": "MIT",
   "source": {
-    "url": "https://github.com/ZohaBanam/laravel-meta.git",
+    "url": "https://github.com/shoplab/laravel-meta.git",
     "type": "git",
     "reference": "0ac3f7b"
   },
